@@ -1,1 +1,8 @@
-Due to their large size, some files have been shared publicly via Baidu Netdisk.
+## 文件说明
+因为有些文件由于体积过大，因此选择上传到百度网盘进行公开
+
+## 环境部署
+python == 3.7
+transfomers == 4.30.2
+torch == 1.9.0
+numpy == 1.21.6
